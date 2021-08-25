@@ -1,0 +1,10 @@
+C:\Users\clovi\source\repos\calculadora wf\calculadora wf\bin\Debug\calculadora wf.exe.config
+C:\Users\clovi\source\repos\calculadora wf\calculadora wf\bin\Debug\calculadora wf.exe
+C:\Users\clovi\source\repos\calculadora wf\calculadora wf\bin\Debug\calculadora wf.pdb
+C:\Users\clovi\source\repos\calculadora wf\calculadora wf\obj\Debug\calculadora wf.csproj.AssemblyReference.cache
+C:\Users\clovi\source\repos\calculadora wf\calculadora wf\obj\Debug\calculadora_wf.Form1.resources
+C:\Users\clovi\source\repos\calculadora wf\calculadora wf\obj\Debug\calculadora_wf.Properties.Resources.resources
+C:\Users\clovi\source\repos\calculadora wf\calculadora wf\obj\Debug\calculadora wf.csproj.GenerateResource.cache
+C:\Users\clovi\source\repos\calculadora wf\calculadora wf\obj\Debug\calculadora wf.csproj.CoreCompileInputs.cache
+C:\Users\clovi\source\repos\calculadora wf\calculadora wf\obj\Debug\calculadora wf.exe
+C:\Users\clovi\source\repos\calculadora wf\calculadora wf\obj\Debug\calculadora wf.pdb
